@@ -1,0 +1,12 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: BootProj11-LayeredApp-Miniproject
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///ntspbm1102db
+    username: root
+    password: root
+    type: org.apache.commons.dbcp2.BasicDataSource
