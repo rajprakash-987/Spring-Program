@@ -1,0 +1,30 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: BootProj07-BulkInjection-ConfigurationPropertiesAnnotation
+org:
+  nit:
+    id: 1001
+    name: HCL
+    address: odi
+    size: 100
+    mail: raja@rani
+    colors:
+    - red
+    - yellow
+    - orange
+    branches:
+    - hyd
+    - vizag
+    - usa
+    phones: 8888888,999999999,1000000000
+    idDetails:
+      aadhar: 9887576
+      pan: 9887664
+      bankAccount: 9880321
+    supplier:
+      sid: 10009
+      sname: holooo
+      location: hyd
