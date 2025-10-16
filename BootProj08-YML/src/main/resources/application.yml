@@ -1,0 +1,13 @@
+#Spring info
+spring: 
+  application: 
+    name: BootProj08-YML
+
+#employee info
+emp: 
+  info: 
+   name: raja
+   id: 1001
+   addrs: hyd
+   email: natrazjavaarena@gmail.com
+
